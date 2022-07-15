@@ -1,0 +1,241 @@
+Country Name,ISO2,Continent,Capital
+Afghanistan,AF,Asia,Kabul
+Albania,AL,Europe,Tirana
+Algeria,DZ,Africa,Algiers
+American Samoa,AS,Oceania,Pago Pago
+Andorra,AD,Europe,Andorra la Vella
+Angola,AO,Africa,Luanda
+Anguilla,AI,North America,The Valley
+Antarctica,AQ,Antarctica,
+Antigua and Barbuda,AG,North America,St. John's
+Argentina,AR,South America,Buenos Aires
+Armenia,AM,Asia,Yerevan
+Aruba,AW,North America,Oranjestad
+Australia,AU,Oceania,Canberra
+Austria,AT,Europe,Vienna
+Azerbaijan,AZ,Asia,Baku
+Bahamas,BS,North America,Nassau
+Bahrain,BH,Asia,Manama
+Bangladesh,BD,Asia,Dhaka
+Barbados,BB,North America,Bridgetown
+Belarus,BY,Europe,Minsk
+Belgium,BE,Europe,Brussels
+Belize,BZ,North America,Belmopan
+Benin,BJ,Africa,Porto-Novo
+Bermuda,BM,North America,Hamilton
+Bhutan,BT,Asia,Thimphu
+Bolivia,BO,South America,Sucre
+Bosnia and Herzegovina,BA,Europe,Sarajevo
+Botswana,BW,Africa,Gaborone
+Brazil,BR,South America,Brasilia
+British Indian Ocean Territory,IO,Asia,Diego Garcia
+British Virgin Islands,VG,North America,Road Town
+Brunei,BN,Asia,Bandar Seri Begawan
+Bulgaria,BG,Europe,Sofia
+Burkina Faso,BF,Africa,Ouagadougou
+Burundi,BI,Africa,Bujumbura
+Cambodia,KH,Asia,Phnom Penh
+Cameroon,CM,Africa,Yaounde
+Canada,CA,North America,Ottawa
+Cape Verde,CV,Africa,Praia
+Cayman Islands,KY,North America,George Town
+Central African Republic,CF,Africa,Bangui
+Chad,TD,Africa,N'Djamena
+Chile,CL,South America,Santiago
+China,CN,Asia,Beijing
+Christmas Island,CX,Asia,Flying Fish Cove
+Cocos Islands,CC,Asia,West Island
+Colombia,CO,South America,Bogota
+Comoros,KM,Africa,Moroni
+Cook Islands,CK,Oceania,Avarua
+Costa Rica,CR,North America,San Jose
+Croatia,HR,Europe,Zagreb
+Cuba,CU,North America,Havana
+Curacao,CW,North America,Willemstad
+Cyprus,CY,Europe,Nicosia
+Czech Republic,CZ,Europe,Prague
+Democratic Republic of the Congo,CD,Africa,Kinshasa
+Denmark,DK,Europe,Copenhagen
+Djibouti,DJ,Africa,Djibouti
+Dominica,DM,North America,Roseau
+Dominican Republic,DO,North America,Santo Domingo
+East Timor,TL,Oceania,Dili
+Ecuador,EC,South America,Quito
+Egypt,EG,Africa,Cairo
+El Salvador,SV,North America,San Salvador
+Equatorial Guinea,GQ,Africa,Malabo
+Eritrea,ER,Africa,Asmara
+Estonia,EE,Europe,Tallinn
+Ethiopia,ET,Africa,Addis Ababa
+Falkland Islands,FK,South America,Stanley
+Faroe Islands,FO,Europe,Torshavn
+Fiji,FJ,Oceania,Suva
+Finland,FI,Europe,Helsinki
+France,FR,Europe,Paris
+French Polynesia,PF,Oceania,Papeete
+Gabon,GA,Africa,Libreville
+Gambia,GM,Africa,Banjul
+Georgia,GE,Asia,Tbilisi
+Germany,DE,Europe,Berlin
+Ghana,GH,Africa,Accra
+Gibraltar,GI,Europe,Gibraltar
+Greece,GR,Europe,Athens
+Greenland,GL,North America,Nuuk
+Grenada,GD,North America,St. George's
+Guam,GU,Oceania,Hagatna
+Guatemala,GT,North America,Guatemala City
+Guernsey,GG,Europe,St Peter Port
+Guinea,GN,Africa,Conakry
+Guinea-Bissau,GW,Africa,Bissau
+Guyana,GY,South America,Georgetown
+Haiti,HT,North America,Port-au-Prince
+Honduras,HN,North America,Tegucigalpa
+Hong Kong,HK,Asia,Hong Kong
+Hungary,HU,Europe,Budapest
+Iceland,IS,Europe,Reykjavik
+India,IN,Asia,New Delhi
+Indonesia,ID,Asia,Jakarta
+Iran,IR,Asia,Tehran
+Iraq,IQ,Asia,Baghdad
+Ireland,IE,Europe,Dublin
+Isle of Man,IM,Europe,"Douglas, Isle of Man"
+Israel,IL,Asia,Jerusalem
+Italy,IT,Europe,Rome
+Ivory Coast,CI,Africa,Yamoussoukro
+Jamaica,JM,North America,Kingston
+Japan,JP,Asia,Tokyo
+Jersey,JE,Europe,Saint Helier
+Jordan,JO,Asia,Amman
+Kazakhstan,KZ,Asia,Astana
+Kenya,KE,Africa,Nairobi
+Kiribati,KI,Oceania,Tarawa
+Kosovo,XK,Europe,Pristina
+Kuwait,KW,Asia,Kuwait City
+Kyrgyzstan,KG,Asia,Bishkek
+Laos,LA,Asia,Vientiane
+Latvia,LV,Europe,Riga
+Lebanon,LB,Asia,Beirut
+Lesotho,LS,Africa,Maseru
+Liberia,LR,Africa,Monrovia
+Libya,LY,Africa,Tripolis
+Liechtenstein,LI,Europe,Vaduz
+Lithuania,LT,Europe,Vilnius
+Luxembourg,LU,Europe,Luxembourg
+Macau,MO,Asia,Macao
+Macedonia,MK,Europe,Skopje
+Madagascar,MG,Africa,Antananarivo
+Malawi,MW,Africa,Lilongwe
+Malaysia,MY,Asia,Kuala Lumpur
+Maldives,MV,Asia,Male
+Mali,ML,Africa,Bamako
+Malta,MT,Europe,Valletta
+Marshall Islands,MH,Oceania,Majuro
+Mauritania,MR,Africa,Nouakchott
+Mauritius,MU,Africa,Port Louis
+Mayotte,YT,Africa,Mamoudzou
+Mexico,MX,North America,Mexico City
+Micronesia,FM,Oceania,Palikir
+Moldova,MD,Europe,Chisinau
+Monaco,MC,Europe,Monaco
+Mongolia,MN,Asia,Ulan Bator
+Montenegro,ME,Europe,Podgorica
+Montserrat,MS,North America,Plymouth
+Morocco,MA,Africa,Rabat
+Mozambique,MZ,Africa,Maputo
+Myanmar,MM,Asia,Nay Pyi Taw
+Namibia,NA,Africa,Windhoek
+Nauru,NR,Oceania,Yaren
+Nepal,NP,Asia,Kathmandu
+Netherlands,NL,Europe,Amsterdam
+Netherlands Antilles,AN,North America,Willemstad
+New Caledonia,NC,Oceania,Noumea
+New Zealand,NZ,Oceania,Wellington
+Nicaragua,NI,North America,Managua
+Niger,NE,Africa,Niamey
+Nigeria,NG,Africa,Abuja
+Niue,NU,Oceania,Alofi
+North Korea,KP,Asia,Pyongyang
+Northern Mariana Islands,MP,Oceania,Saipan
+Norway,NO,Europe,Oslo
+Oman,OM,Asia,Muscat
+Pakistan,PK,Asia,Islamabad
+Palau,PW,Oceania,Melekeok
+Palestine,PS,Asia,East Jerusalem
+Panama,PA,North America,Panama City
+Papua New Guinea,PG,Oceania,Port Moresby
+Paraguay,PY,South America,Asuncion
+Peru,PE,South America,Lima
+Philippines,PH,Asia,Manila
+Pitcairn,PN,Oceania,Adamstown
+Poland,PL,Europe,Warsaw
+Portugal,PT,Europe,Lisbon
+Puerto Rico,PR,North America,San Juan
+Qatar,QA,Asia,Doha
+Republic of the Congo,CG,Africa,Brazzaville
+Reunion,RE,Africa,Saint-Denis
+Romania,RO,Europe,Bucharest
+Russia,RU,Europe,Moscow
+Rwanda,RW,Africa,Kigali
+Saint Barthelemy,BL,North America,Gustavia
+Saint Helena,SH,Africa,Jamestown
+Saint Kitts and Nevis,KN,North America,Basseterre
+Saint Lucia,LC,North America,Castries
+Saint Martin,MF,North America,Marigot
+Saint Pierre and Miquelon,PM,North America,Saint-Pierre
+Saint Vincent and the Grenadines,VC,North America,Kingstown
+Samoa,WS,Oceania,Apia
+San Marino,SM,Europe,San Marino
+Sao Tome and Principe,ST,Africa,Sao Tome
+Saudi Arabia,SA,Asia,Riyadh
+Senegal,SN,Africa,Dakar
+Serbia,RS,Europe,Belgrade
+Seychelles,SC,Africa,Victoria
+Sierra Leone,SL,Africa,Freetown
+Singapore,SG,Asia,Singapore
+Sint Maarten,SX,North America,Philipsburg
+Slovakia,SK,Europe,Bratislava
+Slovenia,SI,Europe,Ljubljana
+Solomon Islands,SB,Oceania,Honiara
+Somalia,SO,Africa,Mogadishu
+South Africa,ZA,Africa,Pretoria
+South Korea,KR,Asia,Seoul
+South Sudan,SS,Africa,Juba
+Spain,ES,Europe,Madrid
+Sri Lanka,LK,Asia,Colombo
+Sudan,SD,Africa,Khartoum
+Suriname,SR,South America,Paramaribo
+Svalbard and Jan Mayen,SJ,Europe,Longyearbyen
+Swaziland,SZ,Africa,Mbabane
+Sweden,SE,Europe,Stockholm
+Switzerland,CH,Europe,Berne
+Syria,SY,Asia,Damascus
+Taiwan,TW,Asia,Taipei
+Tajikistan,TJ,Asia,Dushanbe
+Tanzania,TZ,Africa,Dodoma
+Thailand,TH,Asia,Bangkok
+Togo,TG,Africa,Lome
+Tokelau,TK,Oceania,
+Tonga,TO,Oceania,Nuku'alofa
+Trinidad and Tobago,TT,North America,Port of Spain
+Tunisia,TN,Africa,Tunis
+Turkey,TR,Asia,Ankara
+Turkmenistan,TM,Asia,Ashgabat
+Turks and Caicos Islands,TC,North America,Cockburn Town
+Tuvalu,TV,Oceania,Funafuti
+U.S. Virgin Islands,VI,North America,Charlotte Amalie
+Uganda,UG,Africa,Kampala
+Ukraine,UA,Europe,Kiev
+United Arab Emirates,AE,Asia,Abu Dhabi
+United Kingdom,GB,Europe,London
+United States,US,North America,Washington
+Uruguay,UY,South America,Montevideo
+Uzbekistan,UZ,Asia,Tashkent
+Vanuatu,VU,Oceania,Port Vila
+Vatican,VA,Europe,Vatican City
+Venezuela,VE,South America,Caracas
+Vietnam,VN,Asia,Hanoi
+Wallis and Futuna,WF,Oceania,Mata Utu
+Western Sahara,EH,Africa,El-Aaiun
+Yemen,YE,Asia,Sanaa
+Zambia,ZM,Africa,Lusaka
+Zimbabwe,ZW,Africa,Harare

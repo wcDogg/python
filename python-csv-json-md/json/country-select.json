@@ -1,0 +1,1442 @@
+[
+    {
+        "Country Name": "Afghanistan",
+        "ISO2": "AF",
+        "Continent": "Asia",
+        "Capital": "Kabul"
+    },
+    {
+        "Country Name": "Albania",
+        "ISO2": "AL",
+        "Continent": "Europe",
+        "Capital": "Tirana"
+    },
+    {
+        "Country Name": "Algeria",
+        "ISO2": "DZ",
+        "Continent": "Africa",
+        "Capital": "Algiers"
+    },
+    {
+        "Country Name": "American Samoa",
+        "ISO2": "AS",
+        "Continent": "Oceania",
+        "Capital": "Pago Pago"
+    },
+    {
+        "Country Name": "Andorra",
+        "ISO2": "AD",
+        "Continent": "Europe",
+        "Capital": "Andorra la Vella"
+    },
+    {
+        "Country Name": "Angola",
+        "ISO2": "AO",
+        "Continent": "Africa",
+        "Capital": "Luanda"
+    },
+    {
+        "Country Name": "Anguilla",
+        "ISO2": "AI",
+        "Continent": "North America",
+        "Capital": "The Valley"
+    },
+    {
+        "Country Name": "Antarctica",
+        "ISO2": "AQ",
+        "Continent": "Antarctica",
+        "Capital": ""
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "ISO2": "AG",
+        "Continent": "North America",
+        "Capital": "St. John's"
+    },
+    {
+        "Country Name": "Argentina",
+        "ISO2": "AR",
+        "Continent": "South America",
+        "Capital": "Buenos Aires"
+    },
+    {
+        "Country Name": "Armenia",
+        "ISO2": "AM",
+        "Continent": "Asia",
+        "Capital": "Yerevan"
+    },
+    {
+        "Country Name": "Aruba",
+        "ISO2": "AW",
+        "Continent": "North America",
+        "Capital": "Oranjestad"
+    },
+    {
+        "Country Name": "Australia",
+        "ISO2": "AU",
+        "Continent": "Oceania",
+        "Capital": "Canberra"
+    },
+    {
+        "Country Name": "Austria",
+        "ISO2": "AT",
+        "Continent": "Europe",
+        "Capital": "Vienna"
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "ISO2": "AZ",
+        "Continent": "Asia",
+        "Capital": "Baku"
+    },
+    {
+        "Country Name": "Bahamas",
+        "ISO2": "BS",
+        "Continent": "North America",
+        "Capital": "Nassau"
+    },
+    {
+        "Country Name": "Bahrain",
+        "ISO2": "BH",
+        "Continent": "Asia",
+        "Capital": "Manama"
+    },
+    {
+        "Country Name": "Bangladesh",
+        "ISO2": "BD",
+        "Continent": "Asia",
+        "Capital": "Dhaka"
+    },
+    {
+        "Country Name": "Barbados",
+        "ISO2": "BB",
+        "Continent": "North America",
+        "Capital": "Bridgetown"
+    },
+    {
+        "Country Name": "Belarus",
+        "ISO2": "BY",
+        "Continent": "Europe",
+        "Capital": "Minsk"
+    },
+    {
+        "Country Name": "Belgium",
+        "ISO2": "BE",
+        "Continent": "Europe",
+        "Capital": "Brussels"
+    },
+    {
+        "Country Name": "Belize",
+        "ISO2": "BZ",
+        "Continent": "North America",
+        "Capital": "Belmopan"
+    },
+    {
+        "Country Name": "Benin",
+        "ISO2": "BJ",
+        "Continent": "Africa",
+        "Capital": "Porto-Novo"
+    },
+    {
+        "Country Name": "Bermuda",
+        "ISO2": "BM",
+        "Continent": "North America",
+        "Capital": "Hamilton"
+    },
+    {
+        "Country Name": "Bhutan",
+        "ISO2": "BT",
+        "Continent": "Asia",
+        "Capital": "Thimphu"
+    },
+    {
+        "Country Name": "Bolivia",
+        "ISO2": "BO",
+        "Continent": "South America",
+        "Capital": "Sucre"
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "ISO2": "BA",
+        "Continent": "Europe",
+        "Capital": "Sarajevo"
+    },
+    {
+        "Country Name": "Botswana",
+        "ISO2": "BW",
+        "Continent": "Africa",
+        "Capital": "Gaborone"
+    },
+    {
+        "Country Name": "Brazil",
+        "ISO2": "BR",
+        "Continent": "South America",
+        "Capital": "Brasilia"
+    },
+    {
+        "Country Name": "British Indian Ocean Territory",
+        "ISO2": "IO",
+        "Continent": "Asia",
+        "Capital": "Diego Garcia"
+    },
+    {
+        "Country Name": "British Virgin Islands",
+        "ISO2": "VG",
+        "Continent": "North America",
+        "Capital": "Road Town"
+    },
+    {
+        "Country Name": "Brunei",
+        "ISO2": "BN",
+        "Continent": "Asia",
+        "Capital": "Bandar Seri Begawan"
+    },
+    {
+        "Country Name": "Bulgaria",
+        "ISO2": "BG",
+        "Continent": "Europe",
+        "Capital": "Sofia"
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "ISO2": "BF",
+        "Continent": "Africa",
+        "Capital": "Ouagadougou"
+    },
+    {
+        "Country Name": "Burundi",
+        "ISO2": "BI",
+        "Continent": "Africa",
+        "Capital": "Bujumbura"
+    },
+    {
+        "Country Name": "Cambodia",
+        "ISO2": "KH",
+        "Continent": "Asia",
+        "Capital": "Phnom Penh"
+    },
+    {
+        "Country Name": "Cameroon",
+        "ISO2": "CM",
+        "Continent": "Africa",
+        "Capital": "Yaounde"
+    },
+    {
+        "Country Name": "Canada",
+        "ISO2": "CA",
+        "Continent": "North America",
+        "Capital": "Ottawa"
+    },
+    {
+        "Country Name": "Cape Verde",
+        "ISO2": "CV",
+        "Continent": "Africa",
+        "Capital": "Praia"
+    },
+    {
+        "Country Name": "Cayman Islands",
+        "ISO2": "KY",
+        "Continent": "North America",
+        "Capital": "George Town"
+    },
+    {
+        "Country Name": "Central African Republic",
+        "ISO2": "CF",
+        "Continent": "Africa",
+        "Capital": "Bangui"
+    },
+    {
+        "Country Name": "Chad",
+        "ISO2": "TD",
+        "Continent": "Africa",
+        "Capital": "N'Djamena"
+    },
+    {
+        "Country Name": "Chile",
+        "ISO2": "CL",
+        "Continent": "South America",
+        "Capital": "Santiago"
+    },
+    {
+        "Country Name": "China",
+        "ISO2": "CN",
+        "Continent": "Asia",
+        "Capital": "Beijing"
+    },
+    {
+        "Country Name": "Christmas Island",
+        "ISO2": "CX",
+        "Continent": "Asia",
+        "Capital": "Flying Fish Cove"
+    },
+    {
+        "Country Name": "Cocos Islands",
+        "ISO2": "CC",
+        "Continent": "Asia",
+        "Capital": "West Island"
+    },
+    {
+        "Country Name": "Colombia",
+        "ISO2": "CO",
+        "Continent": "South America",
+        "Capital": "Bogota"
+    },
+    {
+        "Country Name": "Comoros",
+        "ISO2": "KM",
+        "Continent": "Africa",
+        "Capital": "Moroni"
+    },
+    {
+        "Country Name": "Cook Islands",
+        "ISO2": "CK",
+        "Continent": "Oceania",
+        "Capital": "Avarua"
+    },
+    {
+        "Country Name": "Costa Rica",
+        "ISO2": "CR",
+        "Continent": "North America",
+        "Capital": "San Jose"
+    },
+    {
+        "Country Name": "Croatia",
+        "ISO2": "HR",
+        "Continent": "Europe",
+        "Capital": "Zagreb"
+    },
+    {
+        "Country Name": "Cuba",
+        "ISO2": "CU",
+        "Continent": "North America",
+        "Capital": "Havana"
+    },
+    {
+        "Country Name": "Curacao",
+        "ISO2": "CW",
+        "Continent": "North America",
+        "Capital": "Willemstad"
+    },
+    {
+        "Country Name": "Cyprus",
+        "ISO2": "CY",
+        "Continent": "Europe",
+        "Capital": "Nicosia"
+    },
+    {
+        "Country Name": "Czech Republic",
+        "ISO2": "CZ",
+        "Continent": "Europe",
+        "Capital": "Prague"
+    },
+    {
+        "Country Name": "Democratic Republic of the Congo",
+        "ISO2": "CD",
+        "Continent": "Africa",
+        "Capital": "Kinshasa"
+    },
+    {
+        "Country Name": "Denmark",
+        "ISO2": "DK",
+        "Continent": "Europe",
+        "Capital": "Copenhagen"
+    },
+    {
+        "Country Name": "Djibouti",
+        "ISO2": "DJ",
+        "Continent": "Africa",
+        "Capital": "Djibouti"
+    },
+    {
+        "Country Name": "Dominica",
+        "ISO2": "DM",
+        "Continent": "North America",
+        "Capital": "Roseau"
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "ISO2": "DO",
+        "Continent": "North America",
+        "Capital": "Santo Domingo"
+    },
+    {
+        "Country Name": "East Timor",
+        "ISO2": "TL",
+        "Continent": "Oceania",
+        "Capital": "Dili"
+    },
+    {
+        "Country Name": "Ecuador",
+        "ISO2": "EC",
+        "Continent": "South America",
+        "Capital": "Quito"
+    },
+    {
+        "Country Name": "Egypt",
+        "ISO2": "EG",
+        "Continent": "Africa",
+        "Capital": "Cairo"
+    },
+    {
+        "Country Name": "El Salvador",
+        "ISO2": "SV",
+        "Continent": "North America",
+        "Capital": "San Salvador"
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "ISO2": "GQ",
+        "Continent": "Africa",
+        "Capital": "Malabo"
+    },
+    {
+        "Country Name": "Eritrea",
+        "ISO2": "ER",
+        "Continent": "Africa",
+        "Capital": "Asmara"
+    },
+    {
+        "Country Name": "Estonia",
+        "ISO2": "EE",
+        "Continent": "Europe",
+        "Capital": "Tallinn"
+    },
+    {
+        "Country Name": "Ethiopia",
+        "ISO2": "ET",
+        "Continent": "Africa",
+        "Capital": "Addis Ababa"
+    },
+    {
+        "Country Name": "Falkland Islands",
+        "ISO2": "FK",
+        "Continent": "South America",
+        "Capital": "Stanley"
+    },
+    {
+        "Country Name": "Faroe Islands",
+        "ISO2": "FO",
+        "Continent": "Europe",
+        "Capital": "Torshavn"
+    },
+    {
+        "Country Name": "Fiji",
+        "ISO2": "FJ",
+        "Continent": "Oceania",
+        "Capital": "Suva"
+    },
+    {
+        "Country Name": "Finland",
+        "ISO2": "FI",
+        "Continent": "Europe",
+        "Capital": "Helsinki"
+    },
+    {
+        "Country Name": "France",
+        "ISO2": "FR",
+        "Continent": "Europe",
+        "Capital": "Paris"
+    },
+    {
+        "Country Name": "French Polynesia",
+        "ISO2": "PF",
+        "Continent": "Oceania",
+        "Capital": "Papeete"
+    },
+    {
+        "Country Name": "Gabon",
+        "ISO2": "GA",
+        "Continent": "Africa",
+        "Capital": "Libreville"
+    },
+    {
+        "Country Name": "Gambia",
+        "ISO2": "GM",
+        "Continent": "Africa",
+        "Capital": "Banjul"
+    },
+    {
+        "Country Name": "Georgia",
+        "ISO2": "GE",
+        "Continent": "Asia",
+        "Capital": "Tbilisi"
+    },
+    {
+        "Country Name": "Germany",
+        "ISO2": "DE",
+        "Continent": "Europe",
+        "Capital": "Berlin"
+    },
+    {
+        "Country Name": "Ghana",
+        "ISO2": "GH",
+        "Continent": "Africa",
+        "Capital": "Accra"
+    },
+    {
+        "Country Name": "Gibraltar",
+        "ISO2": "GI",
+        "Continent": "Europe",
+        "Capital": "Gibraltar"
+    },
+    {
+        "Country Name": "Greece",
+        "ISO2": "GR",
+        "Continent": "Europe",
+        "Capital": "Athens"
+    },
+    {
+        "Country Name": "Greenland",
+        "ISO2": "GL",
+        "Continent": "North America",
+        "Capital": "Nuuk"
+    },
+    {
+        "Country Name": "Grenada",
+        "ISO2": "GD",
+        "Continent": "North America",
+        "Capital": "St. George's"
+    },
+    {
+        "Country Name": "Guam",
+        "ISO2": "GU",
+        "Continent": "Oceania",
+        "Capital": "Hagatna"
+    },
+    {
+        "Country Name": "Guatemala",
+        "ISO2": "GT",
+        "Continent": "North America",
+        "Capital": "Guatemala City"
+    },
+    {
+        "Country Name": "Guernsey",
+        "ISO2": "GG",
+        "Continent": "Europe",
+        "Capital": "St Peter Port"
+    },
+    {
+        "Country Name": "Guinea",
+        "ISO2": "GN",
+        "Continent": "Africa",
+        "Capital": "Conakry"
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "ISO2": "GW",
+        "Continent": "Africa",
+        "Capital": "Bissau"
+    },
+    {
+        "Country Name": "Guyana",
+        "ISO2": "GY",
+        "Continent": "South America",
+        "Capital": "Georgetown"
+    },
+    {
+        "Country Name": "Haiti",
+        "ISO2": "HT",
+        "Continent": "North America",
+        "Capital": "Port-au-Prince"
+    },
+    {
+        "Country Name": "Honduras",
+        "ISO2": "HN",
+        "Continent": "North America",
+        "Capital": "Tegucigalpa"
+    },
+    {
+        "Country Name": "Hong Kong",
+        "ISO2": "HK",
+        "Continent": "Asia",
+        "Capital": "Hong Kong"
+    },
+    {
+        "Country Name": "Hungary",
+        "ISO2": "HU",
+        "Continent": "Europe",
+        "Capital": "Budapest"
+    },
+    {
+        "Country Name": "Iceland",
+        "ISO2": "IS",
+        "Continent": "Europe",
+        "Capital": "Reykjavik"
+    },
+    {
+        "Country Name": "India",
+        "ISO2": "IN",
+        "Continent": "Asia",
+        "Capital": "New Delhi"
+    },
+    {
+        "Country Name": "Indonesia",
+        "ISO2": "ID",
+        "Continent": "Asia",
+        "Capital": "Jakarta"
+    },
+    {
+        "Country Name": "Iran",
+        "ISO2": "IR",
+        "Continent": "Asia",
+        "Capital": "Tehran"
+    },
+    {
+        "Country Name": "Iraq",
+        "ISO2": "IQ",
+        "Continent": "Asia",
+        "Capital": "Baghdad"
+    },
+    {
+        "Country Name": "Ireland",
+        "ISO2": "IE",
+        "Continent": "Europe",
+        "Capital": "Dublin"
+    },
+    {
+        "Country Name": "Isle of Man",
+        "ISO2": "IM",
+        "Continent": "Europe",
+        "Capital": "Douglas, Isle of Man"
+    },
+    {
+        "Country Name": "Israel",
+        "ISO2": "IL",
+        "Continent": "Asia",
+        "Capital": "Jerusalem"
+    },
+    {
+        "Country Name": "Italy",
+        "ISO2": "IT",
+        "Continent": "Europe",
+        "Capital": "Rome"
+    },
+    {
+        "Country Name": "Ivory Coast",
+        "ISO2": "CI",
+        "Continent": "Africa",
+        "Capital": "Yamoussoukro"
+    },
+    {
+        "Country Name": "Jamaica",
+        "ISO2": "JM",
+        "Continent": "North America",
+        "Capital": "Kingston"
+    },
+    {
+        "Country Name": "Japan",
+        "ISO2": "JP",
+        "Continent": "Asia",
+        "Capital": "Tokyo"
+    },
+    {
+        "Country Name": "Jersey",
+        "ISO2": "JE",
+        "Continent": "Europe",
+        "Capital": "Saint Helier"
+    },
+    {
+        "Country Name": "Jordan",
+        "ISO2": "JO",
+        "Continent": "Asia",
+        "Capital": "Amman"
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "ISO2": "KZ",
+        "Continent": "Asia",
+        "Capital": "Astana"
+    },
+    {
+        "Country Name": "Kenya",
+        "ISO2": "KE",
+        "Continent": "Africa",
+        "Capital": "Nairobi"
+    },
+    {
+        "Country Name": "Kiribati",
+        "ISO2": "KI",
+        "Continent": "Oceania",
+        "Capital": "Tarawa"
+    },
+    {
+        "Country Name": "Kosovo",
+        "ISO2": "XK",
+        "Continent": "Europe",
+        "Capital": "Pristina"
+    },
+    {
+        "Country Name": "Kuwait",
+        "ISO2": "KW",
+        "Continent": "Asia",
+        "Capital": "Kuwait City"
+    },
+    {
+        "Country Name": "Kyrgyzstan",
+        "ISO2": "KG",
+        "Continent": "Asia",
+        "Capital": "Bishkek"
+    },
+    {
+        "Country Name": "Laos",
+        "ISO2": "LA",
+        "Continent": "Asia",
+        "Capital": "Vientiane"
+    },
+    {
+        "Country Name": "Latvia",
+        "ISO2": "LV",
+        "Continent": "Europe",
+        "Capital": "Riga"
+    },
+    {
+        "Country Name": "Lebanon",
+        "ISO2": "LB",
+        "Continent": "Asia",
+        "Capital": "Beirut"
+    },
+    {
+        "Country Name": "Lesotho",
+        "ISO2": "LS",
+        "Continent": "Africa",
+        "Capital": "Maseru"
+    },
+    {
+        "Country Name": "Liberia",
+        "ISO2": "LR",
+        "Continent": "Africa",
+        "Capital": "Monrovia"
+    },
+    {
+        "Country Name": "Libya",
+        "ISO2": "LY",
+        "Continent": "Africa",
+        "Capital": "Tripolis"
+    },
+    {
+        "Country Name": "Liechtenstein",
+        "ISO2": "LI",
+        "Continent": "Europe",
+        "Capital": "Vaduz"
+    },
+    {
+        "Country Name": "Lithuania",
+        "ISO2": "LT",
+        "Continent": "Europe",
+        "Capital": "Vilnius"
+    },
+    {
+        "Country Name": "Luxembourg",
+        "ISO2": "LU",
+        "Continent": "Europe",
+        "Capital": "Luxembourg"
+    },
+    {
+        "Country Name": "Macau",
+        "ISO2": "MO",
+        "Continent": "Asia",
+        "Capital": "Macao"
+    },
+    {
+        "Country Name": "Macedonia",
+        "ISO2": "MK",
+        "Continent": "Europe",
+        "Capital": "Skopje"
+    },
+    {
+        "Country Name": "Madagascar",
+        "ISO2": "MG",
+        "Continent": "Africa",
+        "Capital": "Antananarivo"
+    },
+    {
+        "Country Name": "Malawi",
+        "ISO2": "MW",
+        "Continent": "Africa",
+        "Capital": "Lilongwe"
+    },
+    {
+        "Country Name": "Malaysia",
+        "ISO2": "MY",
+        "Continent": "Asia",
+        "Capital": "Kuala Lumpur"
+    },
+    {
+        "Country Name": "Maldives",
+        "ISO2": "MV",
+        "Continent": "Asia",
+        "Capital": "Male"
+    },
+    {
+        "Country Name": "Mali",
+        "ISO2": "ML",
+        "Continent": "Africa",
+        "Capital": "Bamako"
+    },
+    {
+        "Country Name": "Malta",
+        "ISO2": "MT",
+        "Continent": "Europe",
+        "Capital": "Valletta"
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "ISO2": "MH",
+        "Continent": "Oceania",
+        "Capital": "Majuro"
+    },
+    {
+        "Country Name": "Mauritania",
+        "ISO2": "MR",
+        "Continent": "Africa",
+        "Capital": "Nouakchott"
+    },
+    {
+        "Country Name": "Mauritius",
+        "ISO2": "MU",
+        "Continent": "Africa",
+        "Capital": "Port Louis"
+    },
+    {
+        "Country Name": "Mayotte",
+        "ISO2": "YT",
+        "Continent": "Africa",
+        "Capital": "Mamoudzou"
+    },
+    {
+        "Country Name": "Mexico",
+        "ISO2": "MX",
+        "Continent": "North America",
+        "Capital": "Mexico City"
+    },
+    {
+        "Country Name": "Micronesia",
+        "ISO2": "FM",
+        "Continent": "Oceania",
+        "Capital": "Palikir"
+    },
+    {
+        "Country Name": "Moldova",
+        "ISO2": "MD",
+        "Continent": "Europe",
+        "Capital": "Chisinau"
+    },
+    {
+        "Country Name": "Monaco",
+        "ISO2": "MC",
+        "Continent": "Europe",
+        "Capital": "Monaco"
+    },
+    {
+        "Country Name": "Mongolia",
+        "ISO2": "MN",
+        "Continent": "Asia",
+        "Capital": "Ulan Bator"
+    },
+    {
+        "Country Name": "Montenegro",
+        "ISO2": "ME",
+        "Continent": "Europe",
+        "Capital": "Podgorica"
+    },
+    {
+        "Country Name": "Montserrat",
+        "ISO2": "MS",
+        "Continent": "North America",
+        "Capital": "Plymouth"
+    },
+    {
+        "Country Name": "Morocco",
+        "ISO2": "MA",
+        "Continent": "Africa",
+        "Capital": "Rabat"
+    },
+    {
+        "Country Name": "Mozambique",
+        "ISO2": "MZ",
+        "Continent": "Africa",
+        "Capital": "Maputo"
+    },
+    {
+        "Country Name": "Myanmar",
+        "ISO2": "MM",
+        "Continent": "Asia",
+        "Capital": "Nay Pyi Taw"
+    },
+    {
+        "Country Name": "Namibia",
+        "ISO2": "NA",
+        "Continent": "Africa",
+        "Capital": "Windhoek"
+    },
+    {
+        "Country Name": "Nauru",
+        "ISO2": "NR",
+        "Continent": "Oceania",
+        "Capital": "Yaren"
+    },
+    {
+        "Country Name": "Nepal",
+        "ISO2": "NP",
+        "Continent": "Asia",
+        "Capital": "Kathmandu"
+    },
+    {
+        "Country Name": "Netherlands",
+        "ISO2": "NL",
+        "Continent": "Europe",
+        "Capital": "Amsterdam"
+    },
+    {
+        "Country Name": "Netherlands Antilles",
+        "ISO2": "AN",
+        "Continent": "North America",
+        "Capital": "Willemstad"
+    },
+    {
+        "Country Name": "New Caledonia",
+        "ISO2": "NC",
+        "Continent": "Oceania",
+        "Capital": "Noumea"
+    },
+    {
+        "Country Name": "New Zealand",
+        "ISO2": "NZ",
+        "Continent": "Oceania",
+        "Capital": "Wellington"
+    },
+    {
+        "Country Name": "Nicaragua",
+        "ISO2": "NI",
+        "Continent": "North America",
+        "Capital": "Managua"
+    },
+    {
+        "Country Name": "Niger",
+        "ISO2": "NE",
+        "Continent": "Africa",
+        "Capital": "Niamey"
+    },
+    {
+        "Country Name": "Nigeria",
+        "ISO2": "NG",
+        "Continent": "Africa",
+        "Capital": "Abuja"
+    },
+    {
+        "Country Name": "Niue",
+        "ISO2": "NU",
+        "Continent": "Oceania",
+        "Capital": "Alofi"
+    },
+    {
+        "Country Name": "North Korea",
+        "ISO2": "KP",
+        "Continent": "Asia",
+        "Capital": "Pyongyang"
+    },
+    {
+        "Country Name": "Northern Mariana Islands",
+        "ISO2": "MP",
+        "Continent": "Oceania",
+        "Capital": "Saipan"
+    },
+    {
+        "Country Name": "Norway",
+        "ISO2": "NO",
+        "Continent": "Europe",
+        "Capital": "Oslo"
+    },
+    {
+        "Country Name": "Oman",
+        "ISO2": "OM",
+        "Continent": "Asia",
+        "Capital": "Muscat"
+    },
+    {
+        "Country Name": "Pakistan",
+        "ISO2": "PK",
+        "Continent": "Asia",
+        "Capital": "Islamabad"
+    },
+    {
+        "Country Name": "Palau",
+        "ISO2": "PW",
+        "Continent": "Oceania",
+        "Capital": "Melekeok"
+    },
+    {
+        "Country Name": "Palestine",
+        "ISO2": "PS",
+        "Continent": "Asia",
+        "Capital": "East Jerusalem"
+    },
+    {
+        "Country Name": "Panama",
+        "ISO2": "PA",
+        "Continent": "North America",
+        "Capital": "Panama City"
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "ISO2": "PG",
+        "Continent": "Oceania",
+        "Capital": "Port Moresby"
+    },
+    {
+        "Country Name": "Paraguay",
+        "ISO2": "PY",
+        "Continent": "South America",
+        "Capital": "Asuncion"
+    },
+    {
+        "Country Name": "Peru",
+        "ISO2": "PE",
+        "Continent": "South America",
+        "Capital": "Lima"
+    },
+    {
+        "Country Name": "Philippines",
+        "ISO2": "PH",
+        "Continent": "Asia",
+        "Capital": "Manila"
+    },
+    {
+        "Country Name": "Pitcairn",
+        "ISO2": "PN",
+        "Continent": "Oceania",
+        "Capital": "Adamstown"
+    },
+    {
+        "Country Name": "Poland",
+        "ISO2": "PL",
+        "Continent": "Europe",
+        "Capital": "Warsaw"
+    },
+    {
+        "Country Name": "Portugal",
+        "ISO2": "PT",
+        "Continent": "Europe",
+        "Capital": "Lisbon"
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "ISO2": "PR",
+        "Continent": "North America",
+        "Capital": "San Juan"
+    },
+    {
+        "Country Name": "Qatar",
+        "ISO2": "QA",
+        "Continent": "Asia",
+        "Capital": "Doha"
+    },
+    {
+        "Country Name": "Republic of the Congo",
+        "ISO2": "CG",
+        "Continent": "Africa",
+        "Capital": "Brazzaville"
+    },
+    {
+        "Country Name": "Reunion",
+        "ISO2": "RE",
+        "Continent": "Africa",
+        "Capital": "Saint-Denis"
+    },
+    {
+        "Country Name": "Romania",
+        "ISO2": "RO",
+        "Continent": "Europe",
+        "Capital": "Bucharest"
+    },
+    {
+        "Country Name": "Russia",
+        "ISO2": "RU",
+        "Continent": "Europe",
+        "Capital": "Moscow"
+    },
+    {
+        "Country Name": "Rwanda",
+        "ISO2": "RW",
+        "Continent": "Africa",
+        "Capital": "Kigali"
+    },
+    {
+        "Country Name": "Saint Barthelemy",
+        "ISO2": "BL",
+        "Continent": "North America",
+        "Capital": "Gustavia"
+    },
+    {
+        "Country Name": "Saint Helena",
+        "ISO2": "SH",
+        "Continent": "Africa",
+        "Capital": "Jamestown"
+    },
+    {
+        "Country Name": "Saint Kitts and Nevis",
+        "ISO2": "KN",
+        "Continent": "North America",
+        "Capital": "Basseterre"
+    },
+    {
+        "Country Name": "Saint Lucia",
+        "ISO2": "LC",
+        "Continent": "North America",
+        "Capital": "Castries"
+    },
+    {
+        "Country Name": "Saint Martin",
+        "ISO2": "MF",
+        "Continent": "North America",
+        "Capital": "Marigot"
+    },
+    {
+        "Country Name": "Saint Pierre and Miquelon",
+        "ISO2": "PM",
+        "Continent": "North America",
+        "Capital": "Saint-Pierre"
+    },
+    {
+        "Country Name": "Saint Vincent and the Grenadines",
+        "ISO2": "VC",
+        "Continent": "North America",
+        "Capital": "Kingstown"
+    },
+    {
+        "Country Name": "Samoa",
+        "ISO2": "WS",
+        "Continent": "Oceania",
+        "Capital": "Apia"
+    },
+    {
+        "Country Name": "San Marino",
+        "ISO2": "SM",
+        "Continent": "Europe",
+        "Capital": "San Marino"
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "ISO2": "ST",
+        "Continent": "Africa",
+        "Capital": "Sao Tome"
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "ISO2": "SA",
+        "Continent": "Asia",
+        "Capital": "Riyadh"
+    },
+    {
+        "Country Name": "Senegal",
+        "ISO2": "SN",
+        "Continent": "Africa",
+        "Capital": "Dakar"
+    },
+    {
+        "Country Name": "Serbia",
+        "ISO2": "RS",
+        "Continent": "Europe",
+        "Capital": "Belgrade"
+    },
+    {
+        "Country Name": "Seychelles",
+        "ISO2": "SC",
+        "Continent": "Africa",
+        "Capital": "Victoria"
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "ISO2": "SL",
+        "Continent": "Africa",
+        "Capital": "Freetown"
+    },
+    {
+        "Country Name": "Singapore",
+        "ISO2": "SG",
+        "Continent": "Asia",
+        "Capital": "Singapore"
+    },
+    {
+        "Country Name": "Sint Maarten",
+        "ISO2": "SX",
+        "Continent": "North America",
+        "Capital": "Philipsburg"
+    },
+    {
+        "Country Name": "Slovakia",
+        "ISO2": "SK",
+        "Continent": "Europe",
+        "Capital": "Bratislava"
+    },
+    {
+        "Country Name": "Slovenia",
+        "ISO2": "SI",
+        "Continent": "Europe",
+        "Capital": "Ljubljana"
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "ISO2": "SB",
+        "Continent": "Oceania",
+        "Capital": "Honiara"
+    },
+    {
+        "Country Name": "Somalia",
+        "ISO2": "SO",
+        "Continent": "Africa",
+        "Capital": "Mogadishu"
+    },
+    {
+        "Country Name": "South Africa",
+        "ISO2": "ZA",
+        "Continent": "Africa",
+        "Capital": "Pretoria"
+    },
+    {
+        "Country Name": "South Korea",
+        "ISO2": "KR",
+        "Continent": "Asia",
+        "Capital": "Seoul"
+    },
+    {
+        "Country Name": "South Sudan",
+        "ISO2": "SS",
+        "Continent": "Africa",
+        "Capital": "Juba"
+    },
+    {
+        "Country Name": "Spain",
+        "ISO2": "ES",
+        "Continent": "Europe",
+        "Capital": "Madrid"
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "ISO2": "LK",
+        "Continent": "Asia",
+        "Capital": "Colombo"
+    },
+    {
+        "Country Name": "Sudan",
+        "ISO2": "SD",
+        "Continent": "Africa",
+        "Capital": "Khartoum"
+    },
+    {
+        "Country Name": "Suriname",
+        "ISO2": "SR",
+        "Continent": "South America",
+        "Capital": "Paramaribo"
+    },
+    {
+        "Country Name": "Svalbard and Jan Mayen",
+        "ISO2": "SJ",
+        "Continent": "Europe",
+        "Capital": "Longyearbyen"
+    },
+    {
+        "Country Name": "Swaziland",
+        "ISO2": "SZ",
+        "Continent": "Africa",
+        "Capital": "Mbabane"
+    },
+    {
+        "Country Name": "Sweden",
+        "ISO2": "SE",
+        "Continent": "Europe",
+        "Capital": "Stockholm"
+    },
+    {
+        "Country Name": "Switzerland",
+        "ISO2": "CH",
+        "Continent": "Europe",
+        "Capital": "Berne"
+    },
+    {
+        "Country Name": "Syria",
+        "ISO2": "SY",
+        "Continent": "Asia",
+        "Capital": "Damascus"
+    },
+    {
+        "Country Name": "Taiwan",
+        "ISO2": "TW",
+        "Continent": "Asia",
+        "Capital": "Taipei"
+    },
+    {
+        "Country Name": "Tajikistan",
+        "ISO2": "TJ",
+        "Continent": "Asia",
+        "Capital": "Dushanbe"
+    },
+    {
+        "Country Name": "Tanzania",
+        "ISO2": "TZ",
+        "Continent": "Africa",
+        "Capital": "Dodoma"
+    },
+    {
+        "Country Name": "Thailand",
+        "ISO2": "TH",
+        "Continent": "Asia",
+        "Capital": "Bangkok"
+    },
+    {
+        "Country Name": "Togo",
+        "ISO2": "TG",
+        "Continent": "Africa",
+        "Capital": "Lome"
+    },
+    {
+        "Country Name": "Tokelau",
+        "ISO2": "TK",
+        "Continent": "Oceania",
+        "Capital": ""
+    },
+    {
+        "Country Name": "Tonga",
+        "ISO2": "TO",
+        "Continent": "Oceania",
+        "Capital": "Nuku'alofa"
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "ISO2": "TT",
+        "Continent": "North America",
+        "Capital": "Port of Spain"
+    },
+    {
+        "Country Name": "Tunisia",
+        "ISO2": "TN",
+        "Continent": "Africa",
+        "Capital": "Tunis"
+    },
+    {
+        "Country Name": "Turkey",
+        "ISO2": "TR",
+        "Continent": "Asia",
+        "Capital": "Ankara"
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "ISO2": "TM",
+        "Continent": "Asia",
+        "Capital": "Ashgabat"
+    },
+    {
+        "Country Name": "Turks and Caicos Islands",
+        "ISO2": "TC",
+        "Continent": "North America",
+        "Capital": "Cockburn Town"
+    },
+    {
+        "Country Name": "Tuvalu",
+        "ISO2": "TV",
+        "Continent": "Oceania",
+        "Capital": "Funafuti"
+    },
+    {
+        "Country Name": "U.S. Virgin Islands",
+        "ISO2": "VI",
+        "Continent": "North America",
+        "Capital": "Charlotte Amalie"
+    },
+    {
+        "Country Name": "Uganda",
+        "ISO2": "UG",
+        "Continent": "Africa",
+        "Capital": "Kampala"
+    },
+    {
+        "Country Name": "Ukraine",
+        "ISO2": "UA",
+        "Continent": "Europe",
+        "Capital": "Kiev"
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "ISO2": "AE",
+        "Continent": "Asia",
+        "Capital": "Abu Dhabi"
+    },
+    {
+        "Country Name": "United Kingdom",
+        "ISO2": "GB",
+        "Continent": "Europe",
+        "Capital": "London"
+    },
+    {
+        "Country Name": "United States",
+        "ISO2": "US",
+        "Continent": "North America",
+        "Capital": "Washington"
+    },
+    {
+        "Country Name": "Uruguay",
+        "ISO2": "UY",
+        "Continent": "South America",
+        "Capital": "Montevideo"
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "ISO2": "UZ",
+        "Continent": "Asia",
+        "Capital": "Tashkent"
+    },
+    {
+        "Country Name": "Vanuatu",
+        "ISO2": "VU",
+        "Continent": "Oceania",
+        "Capital": "Port Vila"
+    },
+    {
+        "Country Name": "Vatican",
+        "ISO2": "VA",
+        "Continent": "Europe",
+        "Capital": "Vatican City"
+    },
+    {
+        "Country Name": "Venezuela",
+        "ISO2": "VE",
+        "Continent": "South America",
+        "Capital": "Caracas"
+    },
+    {
+        "Country Name": "Vietnam",
+        "ISO2": "VN",
+        "Continent": "Asia",
+        "Capital": "Hanoi"
+    },
+    {
+        "Country Name": "Wallis and Futuna",
+        "ISO2": "WF",
+        "Continent": "Oceania",
+        "Capital": "Mata Utu"
+    },
+    {
+        "Country Name": "Western Sahara",
+        "ISO2": "EH",
+        "Continent": "Africa",
+        "Capital": "El-Aaiun"
+    },
+    {
+        "Country Name": "Yemen",
+        "ISO2": "YE",
+        "Continent": "Asia",
+        "Capital": "Sanaa"
+    },
+    {
+        "Country Name": "Zambia",
+        "ISO2": "ZM",
+        "Continent": "Africa",
+        "Capital": "Lusaka"
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "ISO2": "ZW",
+        "Continent": "Africa",
+        "Capital": "Harare"
+    }
+]
