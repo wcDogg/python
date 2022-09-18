@@ -41,6 +41,5 @@ TEST_BOOL = config('SECRET_BOOL', default=False, cast=bool)
 
 ## Supply a `.env.example`
 
-This is a copy of `.env` with all the contants' values removed. 
-
+This is a copy of `.env` with sensitive values removed. 
 

@@ -1,5 +1,7 @@
 # Logging + `appdirs`
 
+How to write a Python app's logs to an OS-appropriate directory.
+
 ## Install
 
 ```

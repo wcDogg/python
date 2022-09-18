@@ -1,18 +1,16 @@
-# Install Python
+# Install Multiple Versions of Python on Windows
 
 Tools like Nox run tests against multiple versions of Python. Here's how to use [pyenv-win](https://github.com/pyenv-win/pyenv-win#python-pip) to manage multiple versions of Python and make those versions available during testing.
 
 ## Existing Python?
 
-There's a good chance you already have Python installed at the user level. Check:
+There's a good chance you already have Python installed. Check:
 
 - Start > Settings > Apps > Apps & Features
 
-In the next step we'll be using `pyenv-win` to install and manage multiple versions of Python.
+Python listed here is installed at the user level. It may have been installed via the Microsoft Store or Python.org. Note it does not display the Python 2 instance used by the Windows OS.
 
-- You do not need to have Python already installed.
-- In fact, you should uninstall existing Python installed at the user level.
-- Note this means Python that appears in Apps & Features - it does not mean the Python 2 instance Windows OS uses, which is not listed here.
+Uninstall all Python listed here and restart your computer. In the next step we'll be using `pyenv-win` to install and manage multiple versions of Python.
 
 ## Disable Python Launchers
 
@@ -64,15 +62,6 @@ Other installation methods may require you to set them as a separate step. From 
 
 ## Install Python
 
-Cookiecutter tests against multiple versions of Python - currently 3.7 - 3.10. Tests should be run against the latest point release for each version. Referencing what `pyenv` can install, I'll be using:
-
-- Python 3.7.9
-- Python 3.8.10
-- Python 3.9.13
-- Python 3.10.6
-
-In PowerShell:
-
 ```powershell
 # List what can be installed
 pyenv install -l
@@ -93,23 +82,14 @@ python --version
 # Confirm pip - should point to pyenv
 pip --version
 
-# Uninstall versions
-pyenv uninstall 3.10.4
-```
-
-## Update the Global Version
-
-Before installing Poetry, Nox, and Cookiecutter, update the global version of Python. From PowerShell:
-
-```powershell
-# Confirm the right version is in use
-pyenv version
-
 # Update the global version
 python -m pip install --upgrade pip setuptools wheel
 
 # Refresh the Python environment
 pyenv rehash
+
+# Uninstall versions
+pyenv uninstall 3.10.4
 ```
 
 ## Install Build Tools
@@ -127,43 +107,36 @@ To prevent / fix this, install [Build Tools for Visual Studio 2022](https://visu
 - Install Workload: Desktop development with C++ - note it has MVSVC.
 - Use the default options - the MSVC box is under Optional and should be checked.
 
-## IMPORTANT: Installing Packages
 
-- Each version of Python installed with `pyevn-win` is an environment at the user level.
-- Poetry, Nox, and Cookiecutter are installed to the global Python version as defined by `pyenv`.
+## Install pipx
 
-```powershell
-# Check Python version
-pyenv version
+Use [pipx](https://pypa.github.io/pipx/) to install end-user apps that should be available across projects - Nox, Scrapy, Poetry.
 
+```bash
 # Install
-python -m pip install pkg-name
+python -m pip install --user pipx
 
-# Refresh the Python environment
-pyenv rehash
+# Note PATH warnings similar to this
+WARNING: The script pipx.exe is installed in `<USER folder>\AppData\Roaming\Python\Python3x\Scripts` which is not on PATH
+
+# This folder also needs to be on PATH
+%USERPROFILE%\.local\bin
+
+# cd into these directories and run this.
+# Alternatively, manually check environment  
+# variables using the instructions above. 
+pipx ensurepath
+
+# Restart shell and test
+pipx
+
+# Update
+python -m pip install --user -U pipx
+
+# Install a package
+# https://pypa.github.io/pipx/examples/
+pipx install pycowsay
 ```
-
-- Tools like Poetry, Nox, and Cookiecutter - ones you need at an environment level to use across projects - are good candidates for installing with [pipx]().
-- `pipx` isolates each module to its own environment so they can be managed independently and without conflict.
-- These module environments are created in the global Python environment.
-- I'v never used `pipx` and missed this recommendation - I used the method above and decided it's okay for where I'm at.
-
-```powershell
-pipx install pkg-name
-```
-
-- In later steps, Poetry provides a project level environment equivalent to `venv`.
-- Project level packages are managed with Poetry commands like:
-
-```powershell
-# Add a dependency
-poetry add pkg-name
-
-# Remove a dependency
-poetry remove pkg-name
-```
-
-Whew! That's a lot of environments :P
 
 ## Make Multiple Versions Available
 
@@ -172,3 +145,10 @@ When it's time to run Nox tests, make all the needed versions available by runni
 ```powershell
 pyenv local 3.7.9 3.8.10 3.9.13 3.10.6
 ```
+
+## VS Code venv
+
+Tools like Poetry + Scrapy create their own virtual environments. For other projects, you need to create a virtual environment. Here's how in VS Code.
+
+* See [VS Code Python venv](https://github.com/wcDogg/windows/blob/main/vs-code_venv.md)
+

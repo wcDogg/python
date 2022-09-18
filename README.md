@@ -1,13 +1,10 @@
-# Python 3.9+ General Notes
+# Python 3.10+
 
-## General
 
-* [Install Globally](install-global.md)
-* [Project Structure](project-structure.md)
-* [Sensitive Data](sensitive-data.md)
-* [Virtual Environment in VS Code](virtual-environment.md)
-  
-## Specifics
 
-* [CSV + JSON + MD Utilities](csv-json-md/README.md)
-* 
+## Install
+
+* [Install Multiple Versions of Python on Windows](install-python-windows.md)
+* [Install Multiple Versions of Python on Linux](install-python-linux.md)
+
+
