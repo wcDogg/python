@@ -1,16 +1,14 @@
-# Logging + `appdirs`
+# appdirs
 
-How to write a Python app's logs to an OS-appropriate directory.
-
-## Install
+`appdirs` helps you write app logs to OS-appropriate directories. 
 
 ```
-py -m pip install appdirs
+python -m pip install appdirs
 ```
 
 ## appdirs Paths
 
-```
+```python
 appname = "SuperApp"
 appauthor = "Acme"
 
@@ -43,22 +41,19 @@ user_log_dir(appname, appauthor)
 
 I do this in `configure.py`
 
-```
+```python
+# confiure.py
 import appdirs
 from pathlib import Path
 
 #
-# Project root
+# Project directory
 DIR_PROJ = Path(__file__).parent
 DIR_PACK  = Path(__file__).parent.parent
-DIR_USER_HOME = 
 
 #
 # App info
 APP_NAME = 'SuperApp'
-APP_DESC = 'Command line Twitter scraping tools geared towards OSINT'
-APP_VS = '0.0.1'
-APP_REPO = 'https://github.com/Acme'
 APP_AUTHOR = 'Acme' 
 
 #

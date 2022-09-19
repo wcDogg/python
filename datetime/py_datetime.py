@@ -78,7 +78,6 @@ tz_utc_now = datetime.datetime.utcnow().replace(tzinfo=pytz.UTC)
 print(f'DT UTC Now + TMZ: {tz_utc_now}')
 
 # Convert to a different timezone
-# > 
 eastern = pytz.timezone('US/Eastern')
 mountain = pytz.timezone('US/Mountain')
 
@@ -103,9 +102,6 @@ def pytz_tz_names():
     print(f'{tz}')
 
 # pytz_tz_names()
-
-
-
 
 
 # ------------------------------------

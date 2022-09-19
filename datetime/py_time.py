@@ -9,7 +9,7 @@ import pytz
 
 h, m, s, ms = 9,38,45,100000
 
-# Inegers to time
+# Integers to time
 # > 09:38:45.100000
 naive_time = datetime.time(h,m,s,ms)
 print(f'Integers to Time: {naive_time}')
@@ -36,6 +36,4 @@ print(f'Time Hours: {naive_time.hour}')
 print(f'Time Minutes: {naive_time.minute}')
 print(f'Time Seconds: {naive_time.second}')
 print(f'Time Micro: {naive_time.microsecond}')
-
-
 

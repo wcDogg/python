@@ -1,0 +1,21 @@
+# python -m pip install -r requirements-tests.txt --upgrade
+# Python 3.10.4
+
+# [pytest](https://docs.pytest.org/en/7.1.x/)
+pytest
+# [coverage](https://pypi.org/project/coverage/)
+coverage
+
+# Exact versions + dependencies
+# pytest=>7.1.2
+# coverage=>6.4.2
+# atomicwrites=>1.4.1
+# attrs=>21.4.0
+# colorama=>0.4.5
+# iniconfig=>1.1.1
+# packaging=>21.3
+# pluggy=>1.0.0
+# py=>1.11.0
+# pyparsing=>3.0.9
+# tomli=>2.0.1
+

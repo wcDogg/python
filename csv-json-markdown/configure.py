@@ -1,4 +1,5 @@
 from pathlib import Path
+from unicodedata import name
 
 # -----------------------------------
 # Project Directories
@@ -30,12 +31,14 @@ JSON_KEYED_CSV = Path(DIR_CSV / 'country-json-keyed-to-csv.csv')
 # -----------------------------------
 # Test
 # -----------------------------------
-def print_dirs():
+def print_dirs() -> None:
 
   print(DIR_PROJECT)
   print(DIR_CSV)
   print(DIR_JSON)
   print(DIR_MD)
 
+if __name__ == "__main__":
 
-# print_dirs()
+  print_dirs()
+
