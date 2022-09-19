@@ -10,6 +10,7 @@ A technical writer's notes on using Python 3.10+.
   
 ## Topics
 
+* [Logging](logging/README.md)
 * [CSV, JSON, Markdown](/csv-json-markdown/README.md)
 * [Date, Time, Time Zone](/datetime/README.md)
 * [Lists and Dictionaries](/list-dictionary/README.md)
