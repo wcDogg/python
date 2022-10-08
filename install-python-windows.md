@@ -116,26 +116,16 @@ Use [pipx](https://pypa.github.io/pipx/) to install end-user apps that should be
 # Install
 python -m pip install --user pipx
 
-# Note PATH warnings similar to this
-WARNING: The script pipx.exe is installed in `<USER folder>\AppData\Roaming\Python\Python3x\Scripts` which is not on PATH
-
-# This folder also needs to be on PATH
-%USERPROFILE%\.local\bin
-
-# cd into these directories and run this.
-# Alternatively, manually check environment  
-# variables using the instructions above. 
-pipx ensurepath
-
-# Restart shell and test
-pipx
+# Add to PATH
+cd C:\Users\wcd\.local\bin
+python -m pipx ensurepath
 
 # Update
 python -m pip install --user -U pipx
 
 # Install a package
 # https://pypa.github.io/pipx/examples/
-pipx install pycowsay
+python -m pipx install pycowsay
 ```
 
 ## Make Multiple Versions Available
