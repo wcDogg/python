@@ -2,7 +2,6 @@ from datetime import timedelta
 from timeit import default_timer as timer
 from time import strftime, localtime, sleep
 
-# https://gist.github.com/wcDogg/4bae7cd8d840181c2829e82954358bcc
 
 class TaskTimer:
   '''A utility class for capturing a task's processing time.
