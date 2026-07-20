@@ -1,6 +1,0 @@
-# python -m pip install -r requirements-venv.txt --upgrade
-# Python 3.10.4
-
-pip
-setuptools
-wheel
